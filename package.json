@@ -1,0 +1,28 @@
+{
+  "name": "worter",
+  "version": "1.0.0",
+  "description": "A simple German - English word memorization game.",
+  "engines": {
+    "node": "6.9.4"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewGarver/worter.git"
+  },
+  "author": "Andrew Garver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewGarver/worter/issues"
+  },
+  "homepage": "https://github.com/AndrewGarver/worter#readme",
+  "dependencies": {
+    "vue": "^2.2.6"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  }
+}

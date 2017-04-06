@@ -1,2 +1,3 @@
 # Wörter - german pl. n. - Words
-Wörter is a vocabulary training app, and an excuse to play with React.
+
+Wörter is just a simple vocabulary training app and an excuse to play a bit with Vue.js.
